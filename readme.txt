@@ -14,6 +14,10 @@ git命令学习:
     11.get checkout -b devDemo 创建新的分支devDemo -b表示创建并切换
     12.git branch 查看当前分支
     13.git branch XXX 创建XXX分支
+    14.git branch -d devDemo 删除devDemo分支
 
 	git add 将文件添加到暂存区
 	git commit 把所有暂存区的文字提交到当前分支
+
+	/******************************************************/
+	上次git学习到的位置: 创建与合并分支，该学习的章节分支管理策略
